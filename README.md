@@ -1,1 +1,1 @@
-# Functions_and_Computation
+This is a programming assignment I did for CSDS 364: Computational Perception. The focus of the assignment was writing more complex functions, learning to use vector operations, and making more complex plots. I used Python for the assignment and used libraries such as Matplotlib and NumPy.
